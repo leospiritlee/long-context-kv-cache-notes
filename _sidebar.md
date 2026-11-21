@@ -1,0 +1,15 @@
+# 目录
+
+- [导读（序 / 速查 / 自测）](preface.md)
+- [第1章 能装下不等于能用好：三层耦合与有效上下文](ch1.md)
+- [第2章 把位置写进相位：RoPE 与频率坐标](ch2.md)
+- [第3章 训练长度之外：插值、外推与频率缩放](ch3.md)
+- [第4章 注意力的算力账：FlashAttention 与 IO 感知](ch4.md)
+- [第5章 KV 头数怎么压：MQA、GQA 与 MLA](ch5.md)
+- [第6章 长序列跨卡：Ring Attention 与序列并行](ch6.md)
+- [第7章 两阶段推理：prefill、decode 与显存账本](ch7.md)
+- [第8章 显存分页与前缀复用：PagedAttention 与 vLLM](ch8.md)
+- [第9章 不是所有历史都重要：attention sink 与 StreamingLLM](ch9.md)
+- [第10章 更省地装下：KV 量化与卸载](ch10.md)
+- [第11章 怎么知道真的长：评测四件套](ch11.md)
+- [第12章 训练、微调与什么时候该收敛](ch12.md)
